@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Visual Studio-007ACC?logo=Visual-Studio-code&logoColor=white&style=flat" />
 
-## Operating Systems I'm familiar with
+## Operational systems I'm familiar with
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white&style=flat" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo-teodoro&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
