@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me  
-🔹 Passionate software engineer with **4+ years of experience** in **full-stack development**, specializing in **Node.js, React, and AWS**.  
+🔹 Passionate software engineer with **5+ years of experience** in **full-stack development**, specializing in **Node.js, React, and AWS**.  
 🔹 Strong background in **microservices architecture**, **cloud computing**, and **scalable, high-performance systems**.  
 🔹 Advocate for **TDD, DDD, CI/CD, and DevOps** best practices, ensuring maintainability and reliability in software solutions.  
 🔹 Problem solver, eager to tackle complex challenges through **efficient algorithms and optimal data structures**.  
